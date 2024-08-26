@@ -1,0 +1,6 @@
+Para poder crear la conexion de MySQL y Python se necesita usar el siguiente comando
+
+pip install mysql-connector-python
+
+Se pone directamente en la consola de windows o en la consola de 
+Visual Studio Code
